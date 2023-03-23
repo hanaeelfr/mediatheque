@@ -1,0 +1,23 @@
+#button{
+    background-color:rgb(99, 18, 18);
+    border-color: rgb(99, 18, 18);
+    color: white;
+    
+}
+h3{
+    color: rgb(99, 18, 18);
+}
+.cards{
+        width: 342PX;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  
+
+}
+.cardes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:    20px;
+}
+
